@@ -1,0 +1,49 @@
+p{
+    font-size: 32px;
+    color:rgb(170, 15, 80)
+}
+
+div{
+    width: 100px;
+    height: 100px;
+    background-color: #882e63;
+}
+
+#meuDIV_ID{
+    height:100px;
+    background-color: blue;
+}
+
+.meuDIV_Classe{
+    height:70px;
+    color:blueviolet;
+}
+
+.meuDIV_Classe_v2{
+    height:50px;
+}
+
+p.meuDIV_Classe{
+    color:white; 
+}
+
+
+#mt{
+    margin-top: 25%;
+}
+
+#mb{
+    margin-bottom: 25%;
+}
+
+#mr{
+    margin-right: 25%;
+}
+
+#ml{
+    margin-left: 25%;
+}
+
+#margem{
+    margin:25% 25% 25% 25%;
+}
